@@ -1,0 +1,88 @@
+#titulo{ 
+    color: #bfcfcb;
+    text-align: center;
+
+}
+#botao{
+    border: 2px solid black;
+    margin: 15px 20px;
+    padding: 5px 20px;
+    border-radius: 400px;
+    
+    
+}
+
+
+#praia{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 30px;  
+     border: 1px solid #dddddd;
+    text-align: center;
+   
+}
+td, th {
+    background-color: azure;
+  border: 3px solid #000000;
+  text-align: left;
+  color: #000000;
+  padding: 10px;
+}
+#indonesia{
+     width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+#holanda{
+     width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+#islandia{
+     width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+
+body{
+    background-color: #64a19d;
+    color: rgb(11, 13, 15);
+    
+    
+}
+p{
+ font-family: verdana;
+  font-size: 26px;
+  text-align: justify;
+
+ 
+  
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.lista li{
+    font-size: 20px;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+#link{
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+}
+#link:hover{
+    color: red;
+
+}
